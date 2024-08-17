@@ -22,13 +22,22 @@ The `function_app.py` file contains the code for the function. To create it, I c
 
 For LibreChat, I have included a screenshot of my conversation with the chatbot last night. I have also included a screenshot of the metrics that can be seen on my deployed model in Azure.
 
-![LibreChat Conversation Screenshot]("Images/Conversation.png")
-![LibreChat Metrics Screenshot]("Images/Metrics.png")
+<p align="center">
+  <img src="Images/Conversation.png" height=400>
+</p>
+<p align="center">
+  <img src="Images/Metrics.png" height=400>
+</p>
 
 For Document Intelligence, I have included a screenshot of a sample PDF file and the result of calling the function with the URL of the said PDF.
 
-![Sample PDF Screenshot]("Images/Source.png")
-![Document Intelligence Function Result Screenshot]("Images/PDF Result.png")
+<p align="center">
+  <img src="Images/Source.png" height=400>
+</p>
+<p align="center">
+  <img src="Images/PDF Result.png" height=400>
+</p>
+
 
 Here is a [link](https://alorsfunctiontest2.azurewebsites.net/api/alors_http_trigger?code=aYWCvnbbA5fN60VxqvZ_usUqlxXBVYp52Dofp5ubNNF_AzFueUtt0A%3D%3D) to the Function url.
 
